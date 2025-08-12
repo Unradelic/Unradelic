@@ -1,3 +1,7 @@
-IT engineer with over 15 years of self-learning in software dev. I build websites, end-user applications, client-server software and videogames.
+Self-taught software engineer and full-stack web developer with strong experience in back-end development.
 
-I like breaking boundaries and making things in unique ways.
+I build websites, end-user software, SaaS applications, and video games.
+
+Fluent in Python, C#, PHP, GDScript, Go, Bash, JavaScript, HTML/CSS and also ocassionally work with C and Rust.
+
+Most of the experience building API-driven microservice architectures have been using IoT, GraphQL, REST, gRPC, WebSockets, and NETCONF. My background also includes telecom knowledge: network infrastructure, protocols, radio hardware, and security.
